@@ -1,0 +1,20 @@
+GIT
+  remote: https://github.com/soveran/cuba.git
+  revision: 52d7ce255045df71da422ad386d1a3ec27b43cde
+  specs:
+    cuba (3.1.0)
+      rack
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (1.5.2)
+    rack-protection (1.5.2)
+      rack
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cuba!
+  rack-protection
